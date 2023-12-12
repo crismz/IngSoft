@@ -1,0 +1,11 @@
+# virtual environment.
+.venv
+
+# Editor directories and files.
+.vscode/*
+
+# pycache.
+__pycache__/
+
+# Base de datos
+*.sqlite

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Embrace_The_Blush;
+    src: url('Embrace_The_Blush.otf') format('opentype');
+}
+
+h1 {
+    font-family: Embrace_The_Blush;
+}
